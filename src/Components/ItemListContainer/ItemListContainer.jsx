@@ -1,7 +1,7 @@
 
-function ItemListContainer(props) {
+function ItemListContainer(greeting) {
     return (
-        <div>{props.texto}</div>
+        <div>{greeting.texto}</div>
     )
 }
 
