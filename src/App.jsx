@@ -28,7 +28,7 @@ function App() {
     <div>
       <Titulo />
       <Navbar />
-      <ItemListContainer texto='Este es mi texto, creo que así está bien. Pero la verdad no entendí bien la consigna jeje'/>
+      <ItemListContainer texto='Este es mi texto, creo que así está bien.'/>
       <Footer />
     </div>
   )
